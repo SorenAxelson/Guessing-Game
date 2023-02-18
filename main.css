@@ -1,1 +1,7 @@
 /* Write your CSS code in this file */
+#header {
+    background-color: rgb(173, 214, 230);
+    color: black;
+    padding: 15px;
+    text-align: center;
+  }
